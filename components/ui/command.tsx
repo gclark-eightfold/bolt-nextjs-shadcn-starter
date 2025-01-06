@@ -152,4 +152,14 @@ export {
   CommandItem,
   CommandShortcut,
   CommandSeparator,
+  //
+  Command as Root,
+  CommandDialog as Dialog,
+  CommandInput as Input,
+  CommandList as List,
+  CommandEmpty as Empty,
+  CommandGroup as Group,
+  CommandItem as Item,
+  CommandShortcut as Shortcut,
+  CommandSeparator as Separator,
 };
